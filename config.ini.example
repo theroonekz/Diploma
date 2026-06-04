@@ -1,0 +1,13 @@
+[database_connect]
+host = localhost
+username = your_username
+password = your_password
+db = your_database
+
+[theme_style]
+default_style = dark
+
+[titlebar]
+use_custom_titlebar = True
+
+
