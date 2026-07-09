@@ -49,6 +49,9 @@
 - ✅ Адаптивный дизайн
 - ✅ Анимация переходов
 
+  ![Светлая тема и виндоус окно](images/images/readme2.png)
+  ![Погода и о программе](images/images/readme3.png)
+  ![Main.ui](images/images/readme4.png)
 ## 🚀 Установка
 
 ### Требования
@@ -210,15 +213,11 @@ python setup.py build
 4. Запушьте в ветку (`git push origin feature/AmazingFeature`)
 5. Откройте Pull Request
 
-## 📝 Лицензия
-
-Этот проект распространяется под лицензией MIT. Подробнее см. файл [LICENSE](LICENSE).
-
 ## 👨‍💻 Автор
 
 **theRoone**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@theroonekz](https://github.com/theroonekz)
 
 ## 🙏 Благодарности
 
